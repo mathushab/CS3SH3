@@ -1,7 +1,10 @@
 # CS3SH3
 
 Contributions:
-Lakysha - Implementation of the kernel module for assignment question, comments in the code
 
-Mathusha - Learned the /proc file system and how to work with it for the assignment
+Mathusha - Part 1 of the assignment, comments, test cases
+
+Lakysha - Part 2 of the assignment, error handelling
+
+Generative AI used for input/output string processing and storing and retrieving commands in the history
 
